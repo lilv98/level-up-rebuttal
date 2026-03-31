@@ -10,6 +10,8 @@
 | Chess | In-distribution | Maia-2 | Puzzles | ~5.8M | 180,000 | 20,000 |
 | Chess | Transfer | Maia-2 | Game Positions | ~300B | 180,000 | 20,000 |
 
+\#Source denotes the total number of available source data points to identify transitional problems for training. \#Transitional denotes the number of transitional problems identified (Math) or capped at a fixed amount (Chess).
+
 **Table 2**
 
 | Dataset | Phase | Model | Runtime |
